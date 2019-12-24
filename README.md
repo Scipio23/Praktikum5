@@ -99,3 +99,6 @@ while True:                                                                     
 ```
 # Flowchart
 ![Flowchart](https://user-images.githubusercontent.com/56240851/71413452-d1770c00-2684-11ea-9183-f89f1265f245.jpg)
+# Screenshot Input
+-Input1
+![Input1](https://user-images.githubusercontent.com/56240851/71413552-4c402700-2685-11ea-9d9e-ba522ef92d14.png)
