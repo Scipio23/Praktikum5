@@ -106,3 +106,7 @@ Input(1)
 Input(2)
 ![Input2](https://user-images.githubusercontent.com/56240851/71413677-e1432000-2685-11ea-8bbc-46b0de7e4ba1.png)
 
+Input(3)
+![Input3](https://user-images.githubusercontent.com/56240851/71414100-fc169400-2687-11ea-9efa-3fb551c645a8.png)
+
+Input(4)
