@@ -91,7 +91,7 @@ while True:                                                                     
 
     ## MENU KELUAR PROGRAM
     elif (c.lower() == 'q'):                                                                   ## Menu QUIT
-        print("\n Veno Setyoaji Wiratama \n 311910363 \n TI.19.A.2")
+        print("\n Scipio Rifky Yulianto \n 311910363 \n TI.19.A.2")
         break                                                                                  ## Mengakhiri LOOPING
 
     else:
