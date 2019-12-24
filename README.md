@@ -110,3 +110,14 @@ Input(3)
 ![Input3](https://user-images.githubusercontent.com/56240851/71414100-fc169400-2687-11ea-9efa-3fb551c645a8.png)
 
 Input(4)
+![Input4](https://user-images.githubusercontent.com/56240851/71414246-9676d780-2688-11ea-9d48-7764e9926551.png)
+
+# Screenshot Output
+- ADD & LIST
+![output1](https://user-images.githubusercontent.com/56240851/71414467-b064ea00-2689-11ea-9fa8-525056df9c5f.png)
+ 
+ -SEARCH & EDIT
+ ![output2](https://user-images.githubusercontent.com/56240851/71414504-dab6a780-2689-11ea-881c-fcfe47dbd417.png)
+ 
+ -DELETE & QUIT
+ ![output3](https://user-images.githubusercontent.com/56240851/71414512-e3a77900-2689-11ea-92c4-9301c75f4856.png)
